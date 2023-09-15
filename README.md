@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-eJwLBT1EuaN78QHJCL-gxIa3QAoyaMxxkrZZAYixW-9VKPlezonpEhR9JiBk-n353YhRUHl_2W9AE3ksBuWP2pT_XAhP2uS7wdbjLnsGCstR-EVV77Yk5Jlo-38KrILFOHDF3hsLRwxUwirG7E-EPZVGc45OyzKyEvTog2_8T6w6Hak/s220/coding.gif)
 <h1 align="center">Hi 👋, I'm QuanBH</h1>
 <h3 align="center">A software engineer from VietNam</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="coding"/>
+<img align="right" width="400" src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-eJwLBT1EuaN78QHJCL-gxIa3QAoyaMxxkrZZAYixW-9VKPlezonpEhR9JiBk-n353YhRUHl_2W9AE3ksBuWP2pT_XAhP2uS7wdbjLnsGCstR-EVV77Yk5Jlo-38KrILFOHDF3hsLRwxUwirG7E-EPZVGc45OyzKyEvTog2_8T6w6Hak/s220/coding.gif" alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminel9311&label=Profile%20views&color=0e75b6&style=flat" alt="eminel9311" /> </p>
 
 - 🔭 I’m currently working on **VNPT**
