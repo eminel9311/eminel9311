@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [https://inovationthinking.blogspot.com/](https://inovationthinking.blogspot.com/)
+- 📝 I regularly write articles on [eminelinsights.tech](https://eminelinsights.tech)
 
 - 💬 Ask me about **Nodejs, React, Typescript...**
 
