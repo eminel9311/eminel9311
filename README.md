@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VNPT<br><br>🌱 I’m currently learning Golang<br><br>📝 I regularly write articles on eminelinsights.tech<br><br>💬 Ask me about Nodejs, React, Typescript, Ruby...<br><br>📫 How to reach me quanbh1911@gmail.com<br><br>⚡ Fun fact I think i am funny
+🔭 I’m currently working on VNPT<br><br>🌱 I’m currently learning Golang<br><br>📝 I regularly write articles on eminelinsights.tech<br><br>💬 Ask me about Nodejs, React, Typescript, Ruby...<br><br>📫 How to reach me quanbh1911@gmail.com<br><br>⚡ [My Blog](https://eminelinsights.tech/) 
 
 
 # 💻 Tech Stack:
