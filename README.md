@@ -6,15 +6,13 @@
 
 - 🔭 I’m currently working on **VNPT**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Golang**
 
 - 📝 I regularly write articles on [eminelinsights.tech](https://eminelinsights.tech)
 
-- 💬 Ask me about **Nodejs, React, Typescript...**
+- 💬 Ask me about **Nodejs, React, Typescript, Ruby...**
 
 - 📫 How to reach me **quanbh1911@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zs79yrFfHzj_NVD_R6Pk7vnmBflkdF8r/view?usp=sharing](https://drive.google.com/file/d/1zs79yrFfHzj_NVD_R6Pk7vnmBflkdF8r/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am funny**
 
