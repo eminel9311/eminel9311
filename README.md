@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VNPT<br><br>🌱 I’m currently learning Golang<br><br>📝 I regularly write articles on eminelinsights.hashnode.tech<br><br>💬 Ask me about Nodejs, React, Typescript, Ruby...<br><br>📫 How to reach me quanbh1911@gmail.com<br><br>⚡ [My Blog]([https://eminelinsights.tech/](https://eminelinsights.hashnode.dev)) 
+🔭 I’m currently working on VNPT<br><br>🌱 I’m currently learning Golang<br><br>📝 I regularly write articles on eminelinsights.hashnode.tech<br><br>💬 Ask me about Nodejs, React, Typescript, Ruby...<br><br>📫 How to reach me quanbh1911@gmail.com<br><br>⚡ [My Blog]([[https://eminelinsights.tech/](https://eminelinsights.hashnode.dev)](https://eminelinsights.hashnode.dev)) 
 
 
 # 💻 Tech Stack:
